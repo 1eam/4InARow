@@ -1,0 +1,38 @@
+package com.novi.minigames;
+
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+
+        Scanner input = new Scanner(System.in);
+        
+        //Get name of player 1
+        //Get name of player 2 
+        
+        //Print Menu
+        //Get chosen game
+
+            //Start chosen game
+            
+                //Print board
+                //Use:  Dots and/or numbers for fields 
+                //      X's and O's for player pawns
+                
+                //Print current player
+                
+                //Get chosen field
+                //Change field to current player pawn (X or O)
+                
+                //If game is won
+                    //Print board
+                    //Winner gets a point
+                    //Print scores
+                    //Go back to menu
+                
+                //If game is not won
+                    //Switch players
+                    //Start next turn
+        
+    }
+}
