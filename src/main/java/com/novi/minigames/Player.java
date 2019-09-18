@@ -12,22 +12,17 @@ public class Player {
         this.token = token;
     }
     
-   
     public String getName() {
         return name;
-        
     }
-    
     
     public char getToken(){
             return token;
     }
     
-    
     public int getScore(){
         return score;
      }
-    
     
     public void addScore(){
         score++;
