@@ -1,7 +1,8 @@
 /*SHORTCUTS:
 
  *ctrl + L - open shortcut list
- *ctrl + / = comment selected out*/
+ *ctrl + / = comment selected out
+ *ctrl + I = corrigeer indent naar juiste structuur*/
 
 package com.novi.minigames;
 
